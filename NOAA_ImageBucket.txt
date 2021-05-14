@@ -1,0 +1,12 @@
+bucket:
+noaa-eri-pds
+
+key: /2005_Hurricane_Katrina/aug30JpegTiles_GCS_NAD83/aug30C0892700w301630n.tif
+
+/vsis3/noaa-eri-pds/2005_Hurricane_Katrina/aug30JpegTiles_GCS_NAD83/aug30C0892700w301500n.tif
+/vsis3/noaa-eri-pds/2005_Hurricane_Katrina/aug30JpegTiles_GCS_NAD83/aug30C0892700w301630n.tif
+/vsis3/noaa-eri-pds/2005_Hurricane_Katrina/aug30JpegTiles_GCS_NAD83/aug30C0892700w301330n.tif
+/vsis3/noaa-eri-pds/2005_Hurricane_Katrina/aug30JpegTiles_GCS_NAD83/aug30C0892700w301500n.tif
+/vsis3/noaa-eri-pds/2005_Hurricane_Katrina/aug30JpegTiles_GCS_NAD83/aug30C0892700w301630n.tif
+
+/vsis3/noaa-eri-pds/2005_Hurricane_Katrina/aug30JpegTiles_GCS_NAD83/aug30C0892700w302400n.tif
